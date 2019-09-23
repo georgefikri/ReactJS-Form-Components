@@ -1,6 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ReactJS Form Components
+- creating a Form with ReactJS and add each block into it's own component
 
-## Available Scripts
+### Files used
+- /src/index.js
+- /src/App.js
+- /src/index.css
+- /src/components/FirstName.js
+- /src/components/LastName.js
+- /src/components/Age.js
+- /src/components/CheckBoxes.js
+- /src/components/Radio.js
+- /src/components/SelectDropDown.js
+
+### Available Scripts
 
 In the project directory, you can run:
 
